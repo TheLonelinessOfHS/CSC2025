@@ -1,6 +1,6 @@
 CC = cc
 CFLAGS = -O2 -Wfatal-errors -Werror
-BINARIES= factorial.out getchar.out
+BINARIES= factorial.out getchar.out currency.out
 
 main : $(BINARIES)
 
